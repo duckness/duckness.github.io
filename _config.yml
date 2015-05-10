@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Bjorn's Blog
+tagline:             'random stuff'
+description:         'A blog about mostly technology things.'
+url:                 http://bjornl.im
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Bjorn Lim
+  url:               http://bjornl.im
+  email:             mail@bjornl.im
 
 # Custom vars
 version:             1.0.0
