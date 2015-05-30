@@ -1,5 +1,6 @@
 figure {
   margin: 0em auto;
+  margin-bottom: 1em;
 }
 
 figure img {
@@ -11,5 +12,5 @@ figcaption {
   font-style: italic;
   text-align: left;
   line-height: 1em;
-  font-size: 15px;
+  font-size: 12px;
 }
