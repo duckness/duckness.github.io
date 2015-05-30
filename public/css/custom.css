@@ -1,0 +1,15 @@
+figure {
+  margin: 0em auto;
+}
+
+figure img {
+  margin: 0em auto;
+}
+
+figcaption {
+  margin: 0.25em auto;
+  font-style: italic;
+  text-align: left;
+  line-height: 1em;
+  font-size: 15px;
+}
